@@ -1,0 +1,8 @@
+name: TeleportForce
+author: RealJohn
+version: 1.0
+description:
+main: main.TeleportForce
+commands:
+  tpf:
+    description: Teleporter!
